@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Olá , me chamo Leonardo ! Bem vindo ao meu Github 👋
+🔭Trabalho atualmente no Grupo BMS LTDA
+🌱Estou estudando C# , JavaScript , EJS* , HTML e CSS
 <!--
 **leobraboo/leobraboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
