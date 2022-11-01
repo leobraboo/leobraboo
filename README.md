@@ -2,8 +2,8 @@
 
 <div display='flex', align='center'>
 -🔭Trabalho atualmente no Grupo BMS LTDA <br>
--Trabalho com manutenção e implementação em um sistema legado em C# <br>
--🌱Estou estudando ReactJs , React Native , NodeJs , VueJs , EJS ... 
+-Trabalho com manutenção e implementação em sistemas legado construído com C# <br>
+-🌱Estou estudando ReactJs , React Native , NodeJs , VueJs , EJS e as tecnologias mais recentes 
 </div>
 <br>
 <br>
