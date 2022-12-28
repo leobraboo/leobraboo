@@ -1,9 +1,8 @@
-<h1 align='center'> Olá , me chamo Leonardo ! Bem vindo ao meu Github 👋 </h1>
+<h1 align='center'> Olá , me chamo Leonardo! Bem vindo ao meu Github 👋 </h1>
 
 <div display='flex', align='center'>
--🔭Trabalho atualmente no Grupo BMS LTDA <br>
 -Trabalho com manutenção e implementação em sistemas legado construído com C# <br>
--🌱Estou estudando ReactJs , React Native , NodeJs , VueJs , EJS e as tecnologias mais recentes 
+-🌱Estudando ReactJs , React Native , NodeJs , VueJs , EJS e as tecnologias mais recentes 
 </div>
 <br>
 <br>
